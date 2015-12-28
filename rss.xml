@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ExperienceInspiration]]></title>
+        <description><![CDATA[ExperienceInspiration]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 18:44:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PIRCH Sanctuary ]]></title>
+            <description><![CDATA[<article><h1>PIRCH Sanctuary </h1><p>One of my favorite experience encounters at PIRCH is called the Sanctuary. Located at the center of the store, shoppers can try out over twenty shower heads, turning them on and off at will using an iPad. It's so much more convenient (and informative) than looking at fixtures in plastic boxes at a big box retailer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/580875289105b3611993dfdf4750a51d77d5c671.jpg"></article>]]></description>
+            <link>undefinedpirch-sanctuary/index.html</link>
+            <guid isPermaLink="false">85ce50b5-4ff2-4774-ba63-768af8c4e893</guid>
+            <pubDate>Mon, 28 Dec 2015 18:44:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
